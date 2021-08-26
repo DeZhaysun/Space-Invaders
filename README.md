@@ -1,2 +1,2 @@
 # Space-Invaders
-My replica of Space Invaders created using Java.
+My replica of Space Invaders created using Java using NetBeans
